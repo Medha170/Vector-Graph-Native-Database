@@ -1,1 +1,19 @@
-# Generated requirements
+fastapi
+uvicorn
+lancedb
+sentence-transformers
+networkx
+pandas
+numpy
+streamlit
+streamlit-agraph
+pydantic
+python-multipart
+spacy
+beautifulsoup4
+requests
+
+trafilatura
+ftfy
+unstructured
+python-magic
