@@ -79,7 +79,7 @@ def render_graph(graph_data):
     # width="100%" ensures it fills the Streamlit column (80% area defined in app.py)
     config = Config(
         width="100%",
-        height="700px",
+        height="2000px",
         directed=True,
         backgroundColor=BG_COLOR,
         nodeHighlightBehavior=True,
